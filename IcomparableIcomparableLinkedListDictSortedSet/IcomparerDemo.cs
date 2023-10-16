@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 
 
-namespace IcomparableIcomparableLinkedListDictSortedSet
+namespace IcomparableIcomparerLinkedListDictSortedSet
 {
     internal class IcomparerDemo
     {

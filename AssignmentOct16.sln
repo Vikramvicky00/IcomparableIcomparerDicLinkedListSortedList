@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IcomparableIcomparableLinkedListDictSortedSet", "IcomparableIcomparableLinkedListDictSortedSet\IcomparableIcomparableLinkedListDictSortedSet.csproj", "{7328CCD1-6617-4DD4-A467-847C7ACBF925}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IcomparableIcomparerLinkedListDictSortedSet", "IcomparableIcomparableLinkedListDictSortedSet\IcomparableIcomparerLinkedListDictSortedSet.csproj", "{7328CCD1-6617-4DD4-A467-847C7ACBF925}"
 	ProjectSection(ProjectDependencies) = postProject
 		{82AAFBD8-BDB1-4C30-8D45-A927B4286930} = {82AAFBD8-BDB1-4C30-8D45-A927B4286930}
 	EndProjectSection

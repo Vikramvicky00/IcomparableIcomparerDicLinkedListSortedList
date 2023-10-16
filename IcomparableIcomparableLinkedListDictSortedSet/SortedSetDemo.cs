@@ -6,7 +6,7 @@ using System.Reflection;
 using System.Xml.Linq;
 
 
-namespace IcomparableIcomparableLinkedListDictSortedSet
+namespace IcomparableIcomparerLinkedListDictSortedSet
 {
     public class SortedSetDemo
     {

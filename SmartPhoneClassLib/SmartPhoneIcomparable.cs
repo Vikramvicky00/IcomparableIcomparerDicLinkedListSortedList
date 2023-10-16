@@ -15,7 +15,7 @@ namespace SmartPhoneClassLib
             }
             else
             {
-                Console.WriteLine("Phone Doesnt have a name");
+                Console.WriteLine(" Object Doesn't Exists .");
                 return -1;
             }
         }
