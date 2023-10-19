@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>IcomparableIcomparableLinkedListDictSortedSet.SortedSetDemo</StartupObject>
+    <StartupObject>IcomparableIcomparerLinkedListDictSortedSet.DictionaryDemo</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="SmartPhoneClassLib">
